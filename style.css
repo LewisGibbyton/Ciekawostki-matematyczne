@@ -1,0 +1,31 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(to right, #00ff04, #37ff00);
+}
+.home {
+  font-family: 'Open Sans', sans-serif;
+  border-radius: 25px;
+  height: 25%;
+  width: 97.5%;
+  background-color: #a1a1a1;
+  padding: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  position: absolute;
+  top: 25%;
+  padding: 15px;
+}
+footer {
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem; 
+  background-color: skyblue;
+  color: white;
+}
